@@ -1,7 +1,7 @@
 <h2 align="center">👋 Hi there</h2>
 
 <p align="center">
-  <img src="assets/hanni.gif" alt="Hanni" style="width:100%; height:auto;">
+  <img src="assets/hanni.gif" alt="Hanni" width="100%">
 </p>
 
 <i>~ I'm on my knees, pray for glory</i>
